@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="35px" viewBox="0 0 117 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>RxSwift</title>
+    <defs>
+        <radialGradient cx="78.763611%" cy="37.847639%" fx="78.763611%" fy="37.847639%" r="131.3522%" gradientTransform="translate(0.787636,0.378476),scale(0.684211,1.000000),translate(-0.787636,-0.378476)" id="radialGradient-1">
+            <stop stop-color="#F80090" offset="0%"></stop>
+            <stop stop-color="#4D008E" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="78.763611%" cy="37.847639%" fx="78.763611%" fy="37.847639%" r="131.3522%" gradientTransform="translate(0.787636,0.378476),scale(0.684211,1.000000),translate(-0.787636,-0.378476)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="68.738902%" cy="4.398337%" fx="68.738902%" fy="4.398337%" r="108.971305%" gradientTransform="translate(0.687389,0.043983),scale(0.750000,1.000000),translate(-0.687389,-0.043983)" id="radialGradient-3">
+            <stop stop-color="#57008E" offset="0%"></stop>
+            <stop stop-color="#5C008E" offset="29.1746283%"></stop>
+            <stop stop-color="#F80090" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="68.738902%" cy="4.398337%" fx="68.738902%" fy="4.398337%" r="108.971305%" gradientTransform="translate(0.687389,0.043983),scale(0.750000,1.000000),translate(-0.687389,-0.043983)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="29.1746283%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="18.238653%" y1="-7.82924458%" x2="81.159113%" y2="89.714206%" id="linearGradient-5">
+            <stop stop-color="#F70090" offset="0%"></stop>
+            <stop stop-color="#E50090" offset="66.9712865%"></stop>
+            <stop stop-color="#D6008F" stop-opacity="0.2" offset="82.7147533%"></stop>
+            <stop stop-color="#C10090" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.238653%" y1="-7.82924458%" x2="81.159113%" y2="89.714206%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="66.9712865%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="82.7147533%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="64.906059%" y1="68.0786838%" x2="44.28977%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#B2008F" stop-opacity="0.15134" offset="0%"></stop>
+            <stop stop-color="#F70090" stop-opacity="0.4" offset="40.0350765%"></stop>
+            <stop stop-color="#F60090" stop-opacity="0.891668" offset="64.8995536%"></stop>
+            <stop stop-color="#FF0090" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="64.906059%" y1="68.0786838%" x2="44.28977%" y2="50%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0.15134" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="40.0350765%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.891668" offset="64.8995536%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-414.000000, -68.000000)">
+            <g id="RxSwift" transform="translate(414.000000, 68.000000)">
+                <rect id="Rectangle" fill="#C60090" x="0" y="0" width="117" height="35" rx="17.5"></rect>
+                <text font-family="Menlo-Regular, Menlo" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="39" y="23">RxSwift</tspan>
+                </text>
+                <g id="reactivex" transform="translate(10.000000, 7.000000)" fill-rule="nonzero">
+                    <path d="M1.41628206,12.9791562 C0.302753341,7.21234856 3.24561386,1.65061032 10,0.910733795 C9.06856544,-0.058733036 7.79612681,-0.0660177824 7.21068183,0.0519126352 C6.1769803,0.372812893 6.20943171,1.02439355 5.03688651,1.86603908 C3.87121743,2.51456474 3.28577337,2.01791648 2.43662658,2.69022773 C1.58929711,3.35752031 2.18054209,4.8893814 1.82517123,5.18720044 C1.47240852,5.7828086 0.378138613,6.31340385 0.178945273,7.06570278 C0.0143226784,8.02779324 0.625778031,8.7150334 0.602260517,9.53972163 C0.672813058,10.2269619 -0.100113543,10.6155732 0.0109361559,11.1725586 C0.343567868,12.0825104 0.984702321,12.630195 1.28694941,12.8826412 C1.35625988,12.9302243 1.4294617,13.0474117 1.41628206,12.9791562 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M13.0908074,5.18124462 C12.8334704,5.18124462 12.6248158,4.98167167 12.6248158,4.73553518 C12.6248158,4.48939871 12.8334704,4.28982575 13.0908074,4.28982575 C13.3481445,4.28982575 13.5567991,4.48939871 13.5567991,4.73553518 C13.5567991,4.98167167 13.3481445,5.18124462 13.0908074,5.18124462 Z M0.828691191,14 C-0.287285257,8.86763236 3.16601892,4.57916155 9.85339164,6.69041677 C13.7773848,8.88607529 18.7135984,8.74311045 18.9361578,7.32379334 C19.4855886,5.62231969 16.4345183,2.11603046 11.8727052,1.2011532 C2.82265665,-0.487850982 -2.05629699,8.86763244 0.828691191,14 Z" id="Shape" fill="url(#radialGradient-2)"></path>
+                    <path d="M15.2755088,14.7876746 C16.5446085,14.9239909 17.7492712,14.6220098 18.8656397,13.7198324 C17.1790657,15.5849967 15.0701996,16.5227687 12.6504977,16.7779486 C13.805825,17.7517746 14.91997,18.1904396 15.9858451,18.0026831 C13.0241493,18.8129571 10.5428108,17.921072 7.52435935,14.9408012 C7.36629588,15.7430928 8.2209477,16.9930813 9.10184999,17.7910004 C3.99070802,15.5940474 3.54261357,8.75028937 9.77513472,7.06683644 C3.31438989,3.98927903 -0.338804914,9.96899569 1.4560607,14.8699543 C3.21222092,18.6446886 7.89202238,21.5505828 13.0210919,20.9115309 C15.5124606,20.608977 19.2327881,18.9059683 20.7526222,14.8699543 C19.6814661,15.8229746 17.7667581,16.6530102 16.9123305,16.7166796 C19.8041695,15.2837963 21.3652426,12.8490021 20.9270697,9.52121509 C20.3280506,10.9351299 19.5377122,12.021022 18.549106,12.7668121 C20.6491235,9.52121509 20.2887676,7.84366959 18.734403,6 C19.8461856,9.03129369 18.4080022,12.3956164 15.2755088,14.7876746 L15.2755088,14.7876746 Z" id="Path" fill="url(#radialGradient-4)"></path>
+                    <path d="M15,19.0332724 C14.7556565,18.9841731 15.5539026,19.3810151 14.0106126,18.9416412 C12.4673227,18.5022673 10.8959423,18.0788603 8.02115841,15 C7.84514418,15.9690848 8.79685604,17.4789407 9.77779955,18.442744 C12.4258461,20.4288669 10.6249763,19.4999517 14.6597257,21 C14.9834931,20.3069157 15,19.6910334 15,19.0332724 Z" id="Path" fill="url(#linearGradient-6)"></path>
+                    <path d="M10.2779405,4.84768168 C10.2779405,4.84768168 10.5557816,4.47214398 10.6639344,4.30277415 C10.7964681,4.09522322 11,3.71691939 11,3.71691939 C11,3.71691939 8.86135225,3.07796232 8.33650567,3 C6.70498871,3.38783127 6.69905158,4.01377216 7.61120084,4.9718631 C7.71269149,5.07849641 10.2779405,4.84768168 10.2779405,4.84768168 L10.2779405,4.84768168 Z" id="Path" fill="url(#linearGradient-8)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
