@@ -1,8 +1,8 @@
 👋🏻 Hi, I'm Polina   
 📍 I'm from Moscow, Russia  
-❤️ I love cute dogs, programming for Apple devices, and computer science (you can find my learning progress tracker [here](https://github.com/bldjad1488/LearningTracker))
+❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I learn Swift deeper,  Objective-C, and computer science
+👩🏼‍💻 Currently, I learn Swift deeper,  Objective-C, and computer science (you can find my learning progress tracker [here](https://github.com/bldjad1488/LearningTracker))
 
 🥰 Things I code with:   
 
