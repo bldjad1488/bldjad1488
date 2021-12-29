@@ -1,10 +1,18 @@
-👋🏻 Hi, I'm Polina   
+# 👋🏻 Hi, I'm Polina   
 📍 I'm from Moscow, Russia  
+
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
 👩🏼‍💻 Currently, I learn Vapor, Objective-C (not regular), some computer science and design patterns
 
-🥰 Things I code with:   
+## 👀 My tasks for near future:  
+- [ ] **Find new good work**
+- [ ] Write new weather app (design already done)
+- [ ] **Make my personal site with blog** (Vapor backend with React frontend and admin iOS app)  
+- [ ] Make my own client for Pleroma or other fediverse platform
+- [ ] Make client for Spotify with design like Apple Music
+
+## 🥰 Things I code with:   
 
 <p>
   <a href="https://www.swift.org/">
