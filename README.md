@@ -2,19 +2,35 @@
 📍 I'm from Moscow, Russia  
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I learn Swift deeper,  Objective-C, and computer science (you can find my learning progress tracker [here](https://github.com/bldjad1488/LearningTracker))
+👩🏼‍💻 Currently, I learn Swift deeper,  Objective-C, and computer science
 
 🥰 Things I code with:   
 
 <p>
-  <img src="./Assets/Technologies/Swift.svg" alt="Swift" height="30">
-  <img src="./Assets/Technologies/Xcode.svg" alt="Xcode" height="30">
-  <img src="./Assets/Technologies/Vapor.svg" alt="Vapor" height="30">
-  <img src="./Assets/Technologies/CocoaPods.svg" alt="CocoaPods" height="30">
-  <img src="./Assets/Technologies/CoreData.svg" alt="Core Data" height="30">
-  <img src="./Assets/Technologies/Git.svg" alt="Git" height="30">
-  <img src="./Assets/Technologies/Alamofire.svg" alt="Alamofire" height="30">
-  <img src="./Assets/Technologies/RxSwift.svg" alt="RxSwift" height="30">
+  <a href="https://www.swift.org/">
+    <img src="./Assets/Technologies/Swift.svg" alt="Swift" height="30">
+  </a>
+  <a href="https://apps.apple.com/ru/app/xcode/id497799835?mt=12">
+    <img src="./Assets/Technologies/Xcode.svg" alt="Xcode" height="30">
+  </a>
+  <a href="https://vapor.codes/">
+    <img src="./Assets/Technologies/Vapor.svg" alt="Vapor" height="30">
+  </a>
+  <a href="https://cocoapods.org/">
+    <img src="./Assets/Technologies/CocoaPods.svg" alt="CocoaPods" height="30">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Core_Data">
+    <img src="./Assets/Technologies/CoreData.svg" alt="Core Data" height="30">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="./Assets/Technologies/Git.svg" alt="Git" height="30">
+  </a>
+  <a href="https://github.com/Alamofire/Alamofire">
+    <img src="./Assets/Technologies/Alamofire.svg" alt="Alamofire" height="30">
+  </a>
+  <a href="https://github.com/ReactiveX/RxSwift">
+    <img src="./Assets/Technologies/RxSwift.svg" alt="RxSwift" height="30">
+  </a>
 </p>
 
 👻 How to reach me:  
