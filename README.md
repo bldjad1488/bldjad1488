@@ -2,7 +2,7 @@
 📍 I'm from Moscow, Russia  
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I learn Swift deeper,  Objective-C, and computer science
+👩🏼‍💻 Currently, I learn Vapor, Objective-C (not regular), some computer science and design patterns
 
 🥰 Things I code with:   
 
