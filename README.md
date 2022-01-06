@@ -9,6 +9,9 @@
 - [ ] **Find new good work**
 - [ ] Write new weather app (design already done)
 - [ ] **Make my personal site with blog** (Vapor backend with React frontend and admin iOS app)  
+  - [ ] Backend
+  - [ ] Frontend
+  - [ ] App
 - [ ] Make my own client for Pleroma or other fediverse platform
 - [ ] Make client for Spotify with design like Apple Music
 
