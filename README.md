@@ -7,10 +7,12 @@
 
 ## 👀 My tasks for near future:  
 - [ ] **Find new good work**
+- [ ] **Learn design patterns**
+- [ ] **Learn data structures and algorithms**
 - [ ] Write new weather app (design already done)
 - [ ] **Make my personal site with blog** (Vapor backend with React frontend and admin iOS app)  
-  - [ ] Backend
-  - [ ] Frontend
+  - [ ] Backend (in progress)
+  - [ ] Frontend (in progress)
   - [ ] App
 - [ ] Make my own client for Pleroma or other fediverse platform
 - [ ] Make client for Spotify with design like Apple Music
