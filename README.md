@@ -9,12 +9,12 @@
 - [ ] **Find new good work**
 - [ ] **Learn design patterns**
 - [ ] **Learn data structures and algorithms**
+- [ ] Make **my own** client for Pleroma or other fediverse platform (in progress)
 - [ ] Write new weather app (design already done)
-- [ ] **Make my personal site with blog** (Vapor backend with React frontend and admin iOS app)  
-  - [ ] Backend (in progress)
-  - [ ] Frontend (in progress)
+- [ ] Make my personal site with blog (Vapor backend with React frontend and admin iOS app)  
+  - [ ] Backend 
+  - [ ] Frontend
   - [ ] App
-- [ ] Make my own client for Pleroma or other fediverse platform
 - [ ] Make client for Spotify with design like Apple Music
 
 ## 🥰 Things I code with:   
