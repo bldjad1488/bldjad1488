@@ -3,19 +3,21 @@
 
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I learn Vapor, Objective-C (not regular), some computer science and design patterns
+👩🏼‍💻 Currently, I'm surviving
 
 ## 👀 My tasks for near future:  
-- [ ] **Find new good work**
-- [ ] **Learn design patterns**
-- [ ] **Learn data structures and algorithms**
-- [ ] Make **my own** client for Pleroma or other fediverse platform (in progress)
-- [ ] Write new weather app (design already done)
-- [ ] Make my personal site with blog (Vapor backend with React frontend and admin iOS app)  
-  - [ ] Backend 
-  - [ ] Frontend
-  - [ ] App
-- [ ] Make client for Spotify with design like Apple Music
+- [ ] **Get out of depression**
+- [ ] Leave Mordor
+- [ ] Back to iOS development and life
+- [ ] ~~**Learn design patterns**~~
+- [ ] ~~**Learn data structures and algorithms**~~
+- [ ] ~~Make **my own** client for Pleroma or other fediverse platform (in progress)~~
+- [ ] ~~Write new weather app (design already done)~~
+- [ ] ~~Make my personal site with blog (Vapor backend with React frontend and admin iOS app)~~ 
+  - [ ] ~~Backend~~
+  - [ ] ~~Frontend~~
+  - [ ] ~~App~~
+- [ ] ~~Make client for Spotify with design like Apple Music~~ Spotify not working in ~~Russia~~ Mordor
 
 ## 🥰 Things I code with:   
 
