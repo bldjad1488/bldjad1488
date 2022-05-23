@@ -3,21 +3,21 @@
 
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I'm surviving
+👩🏼‍💻 Currently, I'm adapting for life in Italy
 
 ## 👀 My tasks for near future:  
 - [ ] **Get out of depression**
-- [ ] Leave Mordor
-- [ ] Back to iOS development and life
-- [ ] ~~**Learn design patterns**~~
-- [ ] ~~**Learn data structures and algorithms**~~
-- [ ] ~~Make **my own** client for Pleroma or other fediverse platform (in progress)~~
-- [ ] ~~Write new weather app (design already done)~~
-- [ ] ~~Make my personal site with blog (Vapor backend with React frontend and admin iOS app)~~ 
-  - [ ] ~~Backend~~
-  - [ ] ~~Frontend~~
-  - [ ] ~~App~~
-- [ ] ~~Make client for Spotify with design like Apple Music~~ Spotify not working in ~~Russia~~ Mordor
+- [X] Leave Mordor
+- [X] Back to iOS development and life
+- [ ] **Learn design patterns**
+- [ ] **Learn data structures and algorithms**
+- [ ] Make **my own** client for Pleroma or other fediverse platform
+- [ ] Write new weather app (design already done)
+- [ ] Make my personal site with blog (Vapor backend with React frontend and admin iOS app)
+  - [ ] Backend
+  - [ ] Frontend
+  - [ ] App
+- [ ] Make client for Spotify with design like Apple Music (probably)
 
 ## 🥰 Things I code with:   
 
