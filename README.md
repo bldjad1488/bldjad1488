@@ -1,19 +1,17 @@
 # 👋🏻 Hi, I'm Polina   
-📍 I'm from Moscow, Russia  
+📍 I'm from Rome, Italy  
 
 ❤️ I love cute dogs, programming for Apple devices, and many other different technical things
 
-👩🏼‍💻 Currently, I'm adapting for life in Italy
+👩🏼‍💻 Currently, I'm learning data structures and patterns
 
 ## 👀 My tasks for near future:  
-- [ ] **Get out of depression**
-- [X] Leave Mordor
-- [X] Back to iOS development and life
-- [ ] **Learn design patterns**
-- [ ] **Learn data structures and algorithms**
+- [X] **Get out of depression** 
+- [ ] **Learn design patterns** (in progress)
+- [ ] **Learn data structures and algorithms** (in progress)
 - [ ] Make **my own** client for Pleroma or other fediverse platform
-- [ ] Write new weather app (design already done)
-- [ ] Make my personal site with blog (Vapor backend with React frontend and admin iOS app)
+- [ ] Write new weather app (design in progress)
+- [ ] Make my personal site with blog (Vapor backend with React (or Vue) frontend and admin iOS app)
   - [ ] Backend
   - [ ] Frontend
   - [ ] App
