@@ -7,10 +7,10 @@
 
 ## 👀 My tasks for near future:  
 - [X] **Get out of depression** 
-- [ ] **Learn design patterns** (in progress)
-- [ ] **Learn data structures and algorithms** (in progress)
+- [ ] **Learn design patterns** (scheduled)
+- [ ] **Learn data structures and algorithms** (scheduled)
+- [ ] Write new weather app (in progress)
 - [ ] Make **my own** client for Pleroma or other fediverse platform
-- [ ] Write new weather app (design in progress)
 - [ ] Make my personal site with blog (Vapor backend with React (or Vue) frontend and admin iOS app)
   - [ ] Backend
   - [ ] Frontend
