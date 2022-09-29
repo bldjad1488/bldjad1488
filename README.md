@@ -14,13 +14,13 @@ Currently I learning development for android and italian ;)
     - [ ] Pixelfed
     - [ ] Funkwhale
 
-**And I want learn computer science:**     
+**And I want learn computer science:**
 - [ ] **Learn design patterns** (scheduled)
 - [ ] **Learn data structures and algorithms** (scheduled)
 - [ ] Start OSSU course 
 - [ ] Start learning math  
 
-**When I will be strong junior or middle developer** ->  
+**When I will be strong junior or middle developer** ->
 - [ ] Make my personal site with blog (Kotlin backend with React (or Vue) frontend and admin android app)   
   - [ ] Backend
   - [ ] Frontend
