@@ -1,40 +1,46 @@
-# 👋🏻 Hi, I'm Polina   
-📍 I'm from Udine, Italy  
+# 👋🏻 Hi, I'm Polina
 
-❤️ I love cute dogs (and have one mad beagle), programming different things, and learn something interesting
+📍 I'm from Udine, Italy
 
-Currently I learning development for android and italian ;)  
+❤️ I love dogs (I have one very cute beagle), programming different things, and learn something interesting
 
-## 👀 My tasks for near future:   
-- [X] **Get out of depression**   
-- [ ] Write some simple apps for learn different topics of android development
-- [ ] Make **my own** clients for some fediverse platforms (I think, it will be very good and usefull experience for me as developer)    
-    - [ ] Pleroma
-    - [ ] PeerTube
-    - [ ] Pixelfed
-    - [ ] Funkwhale
+Currently I learning react and italian ;)
 
-**And I want learn computer science:**
-- [ ] **Learn design patterns** (scheduled)
-- [ ] **Learn data structures and algorithms** (scheduled)
-- [ ] Start OSSU course 
-- [ ] Start learning math  
+In future I want to learn android development, because it's very interesting for me and more pleasant than iOS development. But also I have some previous frontend experience so now it's beter to improve my skills in this
 
-**When I will be strong junior or middle developer** ->
-- [ ] Make my personal site with blog (Kotlin backend with React (or Vue) frontend and admin android app)   
-  - [ ] Backend
-  - [ ] Frontend
-  - [ ] App
+## 👀 My tasks for near future:
 
-## 👻 How to reach me:  
+- [x] **Get out of depression**
+- [ ] Write some frontend projects for mine portfolio
+  - [ ] Portfolio site with blog for my girlfriend
+  - [ ] Something with api (weather app, for example)
+  - [ ] Some landings for improve my skills in CSS ()
+
+## Maybe after I will find work
+
+Also, I want to make some pet-projects: 
+
+- [ ] Make **my own** clients for some fediverse platforms (I think, it will be very good and usefull experience for me as developer)
+  - [ ] Pleroma
+  - [ ] PeerTube
+  - [ ] Pixelfed
+  - [ ] Funkwhale
+
+## And I want learn computer science:
+
+- [ ] **Learn design patterns** 
+- [ ] **Learn data structures and algorithms** 
+  - [ ] Also leetcode or/and codewars
+- [ ] Start OSSU course
+- [ ] Start learning math
+
+## 👻 How to reach me:
+
 <p>
-  <a href="https://github.com/bldjad1488">
-    <img src="./Assets/Social/Github.svg" alt="Github" height="30">
-  </a>
   <a href="https://twitter.com/pol1n04ka1337">
     <img src="./Assets/Social/Twitter.svg" alt="Twitter" height="30">
   </a>
-  <a href="mailto:314kachu1337@gmail.com?subject=subject text">
+  <a href="mailto:topolina1337@gmail.com?subject=subject text">
     <img src="./Assets/Social/Email.svg" alt="Email" height="30">
   </a>
 </p>
