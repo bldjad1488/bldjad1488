@@ -10,7 +10,7 @@ Currently I learning react and italian ;)
 
 - [x] **Get out of depression**
 - [ ] Write some frontend projects for mine portfolio
-  - [ ] Portfolio site with blog for my girlfriend 
+  - [ ] Portfolio site with blog for my girlfriend (in progress)
   - [ ] Something with api (weather app, for example) (0/2)
   - [ ] Some landings for improve my skills in CSS (0/5)
   - [ ] And, of cource, my site for portfolio, curriculum vitae and little blog for practicing italian & english
