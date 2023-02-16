@@ -1,6 +1,6 @@
 # 👋🏻 Hi, I'm Polina
 
-📍 I'm from Udine, Italy
+📍 I'm from Reggio Emilia, Italy
 
 ❤️ I love dogs (I have one very cute beagle), programming different things, and learn something interesting
 
