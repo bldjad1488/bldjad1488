@@ -1,18 +1,14 @@
 # 👋🏻 Hi, I'm Polina
 
-📍 I'm from Reggio Emilia, Italy
+📍 I'm from Rome, Italy
 
-❤️ I love dogs (I have one very cute beagle), programming different things, and learn something interesting
+❤️ I love dogs (I have very cute one), programming useful things, and learn interesting stuff
 
-Currently I learning react and italian ;)
+Currently I learning italian and some things to make my personal website ;)
 
 ## 👀 My tasks for near future:
 
-- [x] **Get out of depression**
-- [x] Finish javascript cource
-- [x] Finish css cource
-- [ ] Finish node.js cource (in progress)
-- [ ] Finish react.js cource (in progress)
+- [X] **Get out of depression**
 - [ ] Write some frontend projects for mine portfolio
   - [ ] Portfolio site with blog for my girlfriend (in progress)
   - [ ] Something with api (weather app, for example) (0/2)
